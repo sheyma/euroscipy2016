@@ -5,4 +5,8 @@ def my_function():
   pass
 
 def same_function():
+<<<<<<< HEAD
 				  pass
+=======
+          pass
+>>>>>>> 76af143a9762e6238d2ef2231904d9d319c8de9e
