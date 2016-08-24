@@ -6,3 +6,5 @@ def my_function():
 
 def same_function():
     pass
+
+print "OK"
